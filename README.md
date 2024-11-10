@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Management Systems<br>🌱 I’m currently learning ASP .Net VB & C#<br>
+🔭 I’m currently working on Management Systems<br>🌱 I’m currently learning ASP .Net VB & C#<br> [![](https://visitcount.itsvg.in/api?id=BonifaceMARK&icon=5&color=8)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BonifaceMARK&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BonifaceMARK&icon=5&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
