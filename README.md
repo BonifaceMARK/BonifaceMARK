@@ -53,6 +53,6 @@
 - 📚 Learning **Django REST Framework**
 - 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:8b1e1e&height=180&section=header&text=Mark%20Luis%20Bonifacio&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20IT%20Systems%20and%20Security&descSize=16&descColor=c9c9c9&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:8b1e1e&height=180&section=header&text=Mark%20Luis%20Bonifacio&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20IT%20Network%20%20Systems%20and%20Security&descSize=16&descColor=c9c9c9&descAlignY=55&animation=fadeIn)
 </sub>
 </div>
