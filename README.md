@@ -37,21 +37,21 @@ Backend Developer · Currently learning Django REST Framework
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
+### Projects
 
-### Stats
+| Project | Description | Stack |
+|---|---|---|
+| **Pipeline Management System** | Replaced spreadsheet-based sales tracking for Delsan Office Systems — pipeline monitoring, account management, probability tracking, role-based access, Excel import, and automated notifications. | Laravel · PHP · MySQL |
+| **Case Management Information System** (LTO) | Web platform for the Land Transportation Office's Traffic Adjudication Service — case intake, records, review workflows, history/traceability, and operational dashboards. Recognized by LTO Central Office for outstanding contribution. | PHP · MySQL · JavaScript |
+| **Asset & Data Inventory Management System** | Centralized IT asset and inventory tracking for Allianz Synergia — system units, peripherals, network equipment, and record maintenance across the company. | PHP · MySQL |
+| **Financial Management System** | Capstone project led as Scrum Lead Programmer — full Agile lifecycle from requirements to deployment for a web-based financial management platform. | Web-based · Agile/Scrum |
+| **Product Management & HR Appraisal Systems** | Internal web applications supporting product workflows and employee appraisal processes. | PHP · MySQL |
 
-<div align="center">
+### Now
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonifaceMARK&show_icons=true&hide_title=true&hide_border=true&theme=default)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BonifaceMARK&theme=default&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=BonifaceMARK&theme=flat&no-frame=true&margin-w=8&column=4)
-
-</div>
-
-<div align="center">
-<sub>
+- 🛠️ IT Group Leader at **Allianz Synergia, Inc.** — infrastructure, security, and internal tooling
+- 📚 Learning **Django REST Framework**
+- 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
 
 ![Visitors](https://visitcount.itsvg.in/api?id=BonifaceMARK&icon=0&color=0)
 
