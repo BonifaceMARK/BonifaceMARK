@@ -53,7 +53,6 @@ Backend Developer · Currently learning Django REST Framework
 - 📚 Learning **Django REST Framework**
 - 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
 
-![Visitors](https://visitcount.itsvg.in/api?id=BonifaceMARK&icon=0&color=0)
 
 </sub>
 </div>
