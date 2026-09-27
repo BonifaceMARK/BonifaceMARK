@@ -6,7 +6,11 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/markluis.bonifacio.31)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rinkashime_cb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-luis-bonifacio)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BonifaceMARK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-luis-bonifacio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B1E1E?style=flat-square&logo=vercel&logoColor=white)](https://mark-luis.vercel.app/)
+
 
 </div>
 
@@ -52,6 +56,7 @@
 - 🛠️ IT Group Leader at **Allianz Synergia, Inc.** — infrastructure, security, and internal tooling
 - 📚 Learning **Django REST Framework**
 - 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:8b1e1e&height=180&section=header&text=Mark%20Luis%20Bonifacio&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20IT%20Network%20Systems%20and%20Security&descSize=16&descColor=c9c9c9&descAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:8b1e1e&height=220&section=header&text=Mark%20Luis%20Bonifacio&fontSize=34&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20IT%20Network%20Systems%20and%20Security&descSize=15&descColor=c9c9c9&descAlignY=48&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:8b1e1e&height=100&section=footer)
 </sub>
 </div>
