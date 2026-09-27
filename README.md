@@ -52,7 +52,7 @@ Backend Developer · Currently learning Django REST Framework
 - 🛠️ IT Group Leader at **Allianz Synergia, Inc.** — infrastructure, security, and internal tooling
 - 📚 Learning **Django REST Framework**
 - 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B1E1E&background=0A0A0A00&center=true&vCenter=true&width=600&height=100&lines=IT+Group+Leader+%40+Allianz+Synergia;Full-Stack+Software+Developer;Systems+and+Cybersecurity;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+ASP.NET;Network+and+Infrastructure+Security)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B1E1E&background=0A0A0A00&center=true&vCenter=true&width=600&height=100&lines=IT+Group+Leader;Full-Stack+Software+Developer;Systems+and+Cybersecurity;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+ASP.NET;Network+and+Infrastructure+Security)]()
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:8b1e1e&height=180&section=header&text=Mark%20Luis%20Bonifacio&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20IT%20Systems%20and%20Security&descSize=16&descColor=c9c9c9&descAlignY=55&animation=fadeIn)
 </sub>
 </div>
