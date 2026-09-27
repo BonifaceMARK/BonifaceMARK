@@ -53,6 +53,7 @@ Backend Developer · Currently learning Django REST Framework
 - 📚 Learning **Django REST Framework**
 - 🔧 Background in Active Directory, GPO, Windows Server, and network/endpoint security
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BonifaceMARK&theme=github-compact)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=150&section=header&text=Mark%20Luis%20Bonifacio&fontSize=40&fontColor=ffffff)
 </sub>
 </div>
